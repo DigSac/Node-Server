@@ -1,0 +1,57 @@
+{
+	
+	"name":"Uthapizza",
+	
+	"image":"images/uthapizza.png",
+	
+	"category":"mains",
+	
+	"label":"Hot",
+	
+	"price":"4.99",
+	
+	"featured":"true",
+	
+	"description":"A unique combination",
+	
+	"comments":[
+		
+		{
+			
+			"rating":5,
+			
+			"comment":"Imagine all eatables",
+			
+			"author":"Jhon Lemon",
+			
+			"date":"2012-10-16T17:57:28.556094Z"
+		
+		},
+		
+		{
+			
+			"rating":2,
+			
+			"comment":"It's your birthday",
+			
+			"author":"Ringo Starry",
+			
+			"date":"2015-10-16T17:57:28.556094Z"
+		
+		},
+				
+		{
+			
+			"rating":3,
+			
+			"comment":"Eat it, just eati it!",
+			
+			"author":"Michael Jackson",
+			
+			"date":"2011-10-16T17:57:28.556094Z"
+		
+		}
+	
+	]
+
+}
